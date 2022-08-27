@@ -17,6 +17,10 @@ html{
 .line{
     margin: 5rem 0;
 }
+
+.title img{
+    margin: 3px 3px 8px 3px;
+}
     
 /* .title{
     font-size: 39px;
