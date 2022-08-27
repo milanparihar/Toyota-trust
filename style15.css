@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+html{
+    width: fit-content;
+
+}
+
 /* .bgimg{
     background-image: url(img14.png);
     background-repeat: no-repeat;
