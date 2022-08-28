@@ -27,6 +27,11 @@ html{
 .col-md-3{
     text-align: left;
 }
+
+.share {
+    display: flex;
+    text-align: center;
+}
     
 /* .title{
     font-size: 39px;
