@@ -32,6 +32,15 @@ html{
     display: flex;
     text-align: center;
 }
+
+.col-lg-5{
+    margin-left: -37px;
+}
+
+.col-lg-12{
+    justify-content: center;
+    display: flex;
+}
     
 /* .title{
     font-size: 39px;
